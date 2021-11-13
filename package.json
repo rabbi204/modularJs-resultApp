@@ -1,0 +1,17 @@
+{
+  "name": "resultapplication",
+  "version": "1.0.0",
+  "description": "This is a result app using module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rabbi",
+  "license": "ISC",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.4",
+    "express": "^4.17.1",
+    "sweet-alert": "^2.0.5"
+  },
+  "type": "module"
+}
